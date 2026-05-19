@@ -150,8 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9ccdee1dad5ae04c806306f95bad18e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Node
-  defaultSprite: {fileID: 21300000, guid: 9b66d4cb4ff47b549aeea9d6481c64b2, type: 3}
-  connectedSprite: {fileID: 21300000, guid: 9b66d4cb4ff47b549aeea9d6481c64b2, type: 3}
+  defaultSprite: {fileID: 2329255891641646273, guid: c6b18070743f9404986e1a2feb065636, type: 3}
+  connectedSprite: {fileID: 2329255891641646273, guid: c6b18070743f9404986e1a2feb065636, type: 3}
   isStartNode: 1
   isConnected: 0
   isEndNode: 0
@@ -1680,8 +1680,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9ccdee1dad5ae04c806306f95bad18e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Node
-  defaultSprite: {fileID: 21300000, guid: 5e9ae435472e31741bab30bb1274af5c, type: 3}
-  connectedSprite: {fileID: 21300000, guid: 5e9ae435472e31741bab30bb1274af5c, type: 3}
+  defaultSprite: {fileID: -3237793340734627056, guid: ebb9bec6f671a474191b39d539b9fe39, type: 3}
+  connectedSprite: {fileID: -3237793340734627056, guid: ebb9bec6f671a474191b39d539b9fe39, type: 3}
   isStartNode: 0
   isConnected: 0
   isEndNode: 1
